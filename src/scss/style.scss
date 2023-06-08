@@ -1,0 +1,89 @@
+@import "~bootstrap/scss/bootstrap";
+$dark-red: #e63946;
+$light-white: #f1faee;
+$light-blue: #a8dadc;
+$medium-blue: #457b9d;
+$dark-blue: #1d3557;
+.amogus{
+    margin: auto;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.cube_with_information{
+    width: 200px;
+    height: 300px;
+    h4{
+        font-weight: bold;
+        font-size: 20px;
+        background-color: white;
+    }
+    .text_in_grid-container{
+        margin-top: 5px;
+        font-size: 15px;
+        background-color: white;
+    }
+}
+.bg {
+    background-color: $light-white;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $dark-blue;
+    color: $dark-red;
+}
+.card {
+    height: 40em;
+    img {
+        height: 30em;
+    }
+}
+.card-body {
+    background-color: $medium-blue;
+}
+.Atomic {
+    background-color: $medium-blue;
+    color: $dark-red;
+    border: 2px solid #dc3545;
+    border-radius: 5px;
+}
+.row {
+    margin: auto;
+    justify-content: center;
+}
+footer {
+    color: $dark-red;
+    background-color: $dark-blue;
+    border-top: 1px solid white;
+    margin-top: 45px;
+}
+.card-img-top{
+    object-fit: cover;
+    height: 100%;
+}
+.myclass{
+    margin: 0 auto;
+}
+
+.cl{
+    margin: 20px 0;
+}
+main {
+    color: $dark-red;
+}
+.signature{
+    text-align: center;
+}
+.last-logo{
+    width: 50px;
+}
+.my-name{
+    margin-left: 10px;
+}
+.icons{
+    width: 50px;
+}
+base{
+    margin: 5px;
+}
