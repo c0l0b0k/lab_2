@@ -57,6 +57,9 @@ footer {
     background-color: $dark-blue;
     border-top: 1px solid white;
     margin-top: 45px;
+    img{
+        border-radius:40%;
+    }
 }
 .card-img-top{
     object-fit: cover;
