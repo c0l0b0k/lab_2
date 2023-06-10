@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.pinimg.com/736x/c7/84/40/c784400fbcf451a17dfd3e7207abd28a--delicious-food.jpg",
+    "name": "Детские",
+    "description": "Пельмени в форме уточек"
+  },
+  {
+    "id": 2,
+    "img": "https://taketea.ru/wp-content/uploads/b/d/3/bd366270d0ddd207fd50d31d109df860.jpeg",
+    "name": "Банштай цай",
+    "description": "Монгольский чай с пельменями"
+  },
+  {
+    "id": 3,
+    "img": "https://foodserver.ru/app/images/ussuriysk/product/uyashi/139896464.jpg",
+    "name": "С укропочиком",
+    "description": "Классические пельмени со свежей зеленью"
+  },
+  {
+    "id": 4,
+    "img": "https://pigmine.ru/wp-content/uploads/6/7/d/67ddd6d6fcf9d293c2b5e4aee3ed027c.jpeg",
+    "name": "Манты",
+    "description": "Манты, приготовленные на пару"
+  },
+  {
+    "id": 5,
+    "img": "https://strjapuchka.ru/wp-content/uploads/2023/01/109554_5b6be2c005f285b6be2c005f62.jpeg",
+    "name": "Горячий",
+    "description": "Жаренные пельмени"
+  }]
+  
