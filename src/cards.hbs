@@ -1,0 +1,14 @@
+{{#each objects}}
+      <div class="col-12 col-sm-8 col-md-4 col-lg-4 col-xl-4 g-3 cl">
+      <div class="card" data-bs-toggle="modal" data-bs-target="#modal" id="object-{{id}}">
+        <img src="{{img}}">
+        <div class="card-body">
+          <h5 class="card-title">{{name}}</h5>
+          <p class="card-text">{{description}}</p>
+          <a href="http://lab6/src/delete.php?id={{id}}">удалить запись</a>
+        </div>
+        <div hidden class="card-img-top">{{img}}</div>
+        <input type="hidden" id="card_id" class="id_card_class" value="{{id}}">
+      </div>  
+    </div>
+{{/each}}
